@@ -1,1 +1,25 @@
 /* место для вашего кода */
+.header-menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px red solid;
+    
+}
+.header__links-list {
+    list-style: none;
+    gap: 32px;
+    display: flex;
+    
+}
+
+.header__links-list-item {
+    list-style: circle;
+}
+
+.header-logo {
+    width: 148px;
+    height: 105px;
+}
+
+
