@@ -1,4 +1,5 @@
 /* место для вашего кода */
+
 .header-menu {
     display: flex;
     justify-content: space-around;
@@ -10,7 +11,7 @@
     list-style: none;
     gap: 32px;
     display: flex;
-    
+    font-size: 18px;
 }
 
 .header__links-list-item {
@@ -22,4 +23,22 @@
     height: 105px;
 }
 
+.cover {
+    background-image: url(../images/cover.jpg);
+    width: 1440px;
+    height: 757px;
+}
 
+.overlay {
+    background-color: rgb(red, green, blue / 0.25);
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
