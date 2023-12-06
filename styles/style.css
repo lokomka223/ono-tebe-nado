@@ -34,9 +34,6 @@
 }
 /*lots*/
 
-.lots {
-    min-width: 1340px;
-}
 
 .lots_card-list-item {
     width: 430px;
@@ -274,6 +271,7 @@
     height: 48px;
     display: flex;
     gap: 48px;
+    list-style: none;
 }
 
 .footer-menu {
@@ -283,8 +281,4 @@
 
 .footer__menu-link_active {
     text-decoration: none;
-}
-
-.footer__social-list-item {
-    list-style: none;
 }
