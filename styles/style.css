@@ -116,7 +116,7 @@
     gap: 72px;
     align-items: center;
     justify-content: end;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .aligned-text_left {
@@ -246,6 +246,7 @@
     line-height: normal;
     text-transform: uppercase;
     margin-top: 100px;
+    margin-left: 25px;
 }
 
 .about__text {
