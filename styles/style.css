@@ -23,7 +23,7 @@
 .header-logo {
     width: 148px;
     height: 105px;
-    margin-right: 200px;
+    margin-right: 220px;
 }
 
 .adress {
@@ -94,6 +94,7 @@
     position: relative;
     line-height: 28px;
     word-spacing: 17.5px;
+    margin-left: 55px;
 }
 
 .bet-button {
