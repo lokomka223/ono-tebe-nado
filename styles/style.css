@@ -94,6 +94,7 @@
     text-align: center;
     font-style: normal;
     position: relative;
+    margin-left: 78px;
 }
 
 .bet-button {
@@ -123,11 +124,7 @@
     margin-left: 50px;
 }
 
-.cover__description-text {
-    margin-left: 78px;
-}
-
-/*lots*/
+/*lots-лоты*/
 
 .lots__card-list {
     display: flex;
