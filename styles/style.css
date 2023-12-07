@@ -78,7 +78,6 @@
     text-transform: uppercase;
     display: flex;
     flex-direction: column;
-    gap: 3px;
     position: relative;
     padding-top: 165px;
     margin-bottom: 45px;
@@ -123,14 +122,14 @@
     padding: 12px 32px;
     margin-right: 50px;
     margin-left: 78px;
+    color: #FFF;
 }
 
 .cover__description {
     display: flex;
-    gap: 72px;
     align-items: center;
     justify-content: end;
-    margin-top: 50px;
+    margin-top: 150px;
 }
 
 /*lots-лоты*/
