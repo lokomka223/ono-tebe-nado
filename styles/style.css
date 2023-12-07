@@ -94,6 +94,7 @@
 
 .aligned-text_center {
     text-align: center;
+    padding-left: 10px;
 }
 
 .aligned-text_right {
