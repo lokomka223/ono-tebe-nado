@@ -250,7 +250,7 @@
     font-size: 20px;
     font-weight: 400;
     line-height: normal;
-    padding-top: 7px;
+    padding-top: 5px;
 }
 
 /*footer*/
@@ -259,7 +259,7 @@
     max-width: 1340px;
     display: flex;
     justify-content: space-between;
-    margin-top: 180px;
+    margin-top: 168px;
 }
 
 
