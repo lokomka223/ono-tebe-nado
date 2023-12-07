@@ -1,5 +1,6 @@
 /* место для вашего кода */
 /* header */
+
 .adress_grid_elements {
     justify-self: end;  
 }
@@ -77,7 +78,7 @@
     text-transform: uppercase;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     position: relative;
     padding-top: 165px;
     margin-bottom: 45px;
@@ -112,7 +113,6 @@
 }
 
 .bet-button {
-    
     text-align: center;
     font-size: 22px;
     font-weight: 400;
@@ -179,8 +179,7 @@
     font-weight: 400;
     position: relative;
     line-height: 24px;
-    padding: 202px 40px 40px 50px
-
+    padding: 202px 40px 40px 50px;
 }
 
 .card_type_book {
