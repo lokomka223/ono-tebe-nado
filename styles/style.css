@@ -169,7 +169,7 @@
     text-transform: uppercase;
     text-decoration: underline;
     position: relative;
-    padding-top: 60px;  /*увеличил отступ на 10пк*/
+    padding-top: 65px;  /*увеличил отступ на 5пк*/
     padding-left: 40px;
     padding-right: 40px;
 }
@@ -196,7 +196,7 @@
 }
 
 .card_picture {
-    padding: 54px 40px 50px 40px;
+    padding: 70px 40px 50px 40px; /*увел верх отсуп на 16пк*/
 }
 
 .lots__look-more-link {
