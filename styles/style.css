@@ -191,9 +191,6 @@
     background: url(../images/card-lot-03.jpg) center/cover;
 }
 
-.text_card_padding {
-
-}
 
 .card_book {
     padding: 30px 40px 50px 40px; /* уменьшил вверх отсутп на 10пк */
@@ -219,7 +216,7 @@
 .about {
     display: grid;
     grid-template-columns: 430px 1fr;
-    margin-top: 195px; /*уменьшил отступ на 7пк*/
+    margin-top: 205px; /*уменьшил отступ на 7пк*/
     max-width: 1340px;
     margin-left: 50px;
     margin-right: 50px;
