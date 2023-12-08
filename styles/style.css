@@ -180,7 +180,7 @@
     font-weight: 400;
     position: relative;
     line-height: 24px;
-    padding: 200px 30px 40px 50px; /* уменьшил верхний отступ */
+    
 }
 
 .card_type_book {
@@ -189,6 +189,10 @@
 
 .card_type_picture {
     background: url(../images/card-lot-03.jpg) center/cover;
+}
+
+.text_card_padding {
+
 }
 
 .card_book {
