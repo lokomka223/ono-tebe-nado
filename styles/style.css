@@ -180,7 +180,7 @@
     font-weight: 400;
     position: relative;
     line-height: 24px;
-    padding: 180px 30px 40px 50px; /* уменьшил верхний отступ */
+    padding: 170px 30px 40px 45px; /* уменьшил верхний отступ и бок правый */
 }
 
 .card_type_book {
