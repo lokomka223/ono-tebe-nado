@@ -99,6 +99,7 @@
 
 .aligned-text_right {
     text-align: right;
+    padding-left: 30px;
 }
 
 .cover__description-text {
