@@ -47,8 +47,13 @@
 
 /*lots*/
 
+.card-link {
+    display: block;
+    height: 100%;
+}
 
-.lots_card-list-item {
+
+.lots__card-list-item {
     max-width: 430px;
     min-height: 450px;
 }
@@ -137,8 +142,7 @@
 /*lots-лоты*/
 
 .card {
-    width: 430px;
-    min-height: 450px;
+    height: 100%;
     position: relative;
 }
 .lots__card-list {
