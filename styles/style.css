@@ -254,6 +254,8 @@
     font-weight: 400;
     line-height: normal;
     padding-top: 5px;
+    padding-left: 20px; /*добавил свойсвто*/
+    padding-bottom: 5px; /*добавил свойсвто*/
 }
 
 /*footer*/
