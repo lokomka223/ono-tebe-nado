@@ -184,7 +184,7 @@
     font-weight: 400;
     position: relative;
     line-height: 24px;
-    padding: 175px 30px 40px 40px; /* уменьшил верхний отступ и бок правый */
+    padding: 203px 40px 40px 40px; /*поменял отсутупы*/
 }
 
 .card_type_book {
@@ -197,11 +197,11 @@
 
 
 .card_book {
-    padding: 30px 40px 50px 40px; /* уменьшил вверх отсутп на 10пк */
+    padding: 30px 40px 50px 40px; 
 }
 
 .card_picture {
-    padding: 85px 40px 50px 40px; /*увел верх отсуп на 156пк*/
+    padding: 85px 40px 50px 40px; 
 }
 
 .lots__look-more-link {
@@ -267,7 +267,8 @@
     max-width: 1340px;
     display: flex;
     justify-content: space-between;
-    /*margin-top: 80px;*/
+    margin-top: 170px; /*add отсутп*/
+    margin-left: 50px;
 }
 
 
