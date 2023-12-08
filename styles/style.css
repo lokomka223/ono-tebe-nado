@@ -169,7 +169,7 @@
     text-transform: uppercase;
     text-decoration: underline;
     position: relative;
-    padding-top: 50px;
+    padding-top: 60px;  /*увеличил отступ на 10пк*/
     padding-left: 40px;
     padding-right: 40px;
 }
@@ -180,7 +180,7 @@
     font-weight: 400;
     position: relative;
     line-height: 24px;
-    padding: 205px 30px 40px 50px; /* увеличил верхний отступ */
+    padding: 200px 30px 40px 50px; /* уменьшил верхний отступ */
 }
 
 .card_type_book {
