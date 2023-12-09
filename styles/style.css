@@ -222,7 +222,7 @@
 .about {
     display: grid;
     grid-template-columns: 430px 1fr;
-    margin-top: 195px; /*увл отступ на 5пк*/
+    margin-top: 181px; 
     max-width: 1340px;
     margin-left: 50px;
     margin-right: 50px;
@@ -270,7 +270,7 @@
     max-width: 1340px;
     display: flex;
     justify-content: space-between;
-    margin-top: 170px; /*add отсутп*/
+    margin-top: 180px; /*add отсутп*/
     margin-left: 50px;
 }
 
