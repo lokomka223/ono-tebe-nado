@@ -174,9 +174,9 @@
     text-transform: uppercase;
     text-decoration: underline;
     position: relative;
-    padding-top: 75px;  /*увеличил отступ на 10пк*/
-    padding-left: 40px;
-    padding-right: 40px;
+    margin-top: 75px;  /*увеличил отступ на 10пк*/
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 .card__text {
