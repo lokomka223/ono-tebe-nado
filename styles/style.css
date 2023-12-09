@@ -154,13 +154,14 @@
 }
 .lots {
     min-width: 1340px;
-    padding-top: 170px;
+    margin-top: 180px;
 }
 .lots_heading {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 40px;
     margin-left: 90px;
+    margin-bottom: 27px;
 }
 
 .card_type_film {
@@ -212,6 +213,8 @@
     font-weight: 400;
     line-height: normal;
     margin-left: 90px;
+    position: absolute;
+    padding-top: 30px;
 }
 
 /* about */
